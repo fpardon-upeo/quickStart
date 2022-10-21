@@ -4,7 +4,7 @@ Deploy to PROD:
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
-Deploy to Sandbox
+Deploy to Sandbox: 
 <a href="https://githubsfdeploy.herokuapp.com">
   <img alt="Deploy to Salesforce Sandbox"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
