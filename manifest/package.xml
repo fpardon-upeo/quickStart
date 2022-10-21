@@ -66,5 +66,9 @@
         <members>CleanNewOrgTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>User.Ignore_Duplicate_Rules__c</members>
+        <name>CustomField</name>
+    </types>
     <version>55.0</version>
 </Package>
