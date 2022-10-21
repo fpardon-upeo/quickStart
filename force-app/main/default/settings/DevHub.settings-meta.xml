@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DevHubSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <devOpsCenterBetaMsa>true</devOpsCenterBetaMsa>
+    <enableDevOpsCenter>true</enableDevOpsCenter>
+    <enablePackaging2>true</enablePackaging2>
+    <enableScratchOrgManagementPref>true</enableScratchOrgManagementPref>
+    <enableShapeExportPref>false</enableShapeExportPref>
+</DevHubSettings>
